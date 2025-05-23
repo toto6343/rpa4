@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_day&Sequence_1",
+        "list_eu&Sequence_1",
+        "dt_eu&Sequence_1",
+        "currency2&Sequence_8",
+        "dt_find_currency&Sequence_10",
+        "dt_excel&Sequence_1",
+        "currency&Sequence_7",
+        "Dt_origin&Sequence_1",
+        "str_dt_origin&Sequence_4",
+        "ExtractDataTable&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
